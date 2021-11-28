@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">1918017_PrakMobile6</string>
+    <string-array name="city_list">
+        <item>Bekasi</item>
+        <item>Surabaya</item>
+        <item>Jogja</item>
+        <item>Malang</item>
+        <item>jakarta</item>
+    </string-array>
+</resources>
